@@ -1,9 +1,11 @@
 import './App.css';
-import ProfileComponent from './Components/ProfileComponent';
+import HomeComponent from './Components/HomeComponent';
+// import ProfileComponent from './Components/ProfileComponent';
 
 function App() {
   return (
-      <ProfileComponent />
+    // <ProfileComponent />
+    <HomeComponent />
   );
 }
 
